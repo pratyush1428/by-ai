@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SalesPulse AI",
+  "description": "A high-performance sales coaching platform that transcribes sales calls, analyzes sentiment, and provides AI-driven coaching insights to improve close rates.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
